@@ -1,6 +1,6 @@
 # IZTECH-Hyperjam - Plumber-Run
 
-##Assets
+## Assets
 
 -VIASS
 
@@ -35,4 +35,4 @@ https://sketchfab.com/3d-models/thorn-stick-obstacle-2bb9d9873f234e91809fd0b0fdd
 https://www.kenney.nl/assets/puzzle-pack-2
 
 
-###Asset owners are specified from the link above. Thanks for sharing these wonderful assets.
+### Asset owners are specified from the link above. Thanks for sharing these wonderful assets.
